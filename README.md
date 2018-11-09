@@ -4,10 +4,6 @@
 前台使用了mui前端框架
 
 
-演示地址
-
-bool.ren/house/index.php
-
 <img class="BDE_Image" pic_type="0" width="420" height="740" src="http://imgsrc.baidu.com/forum/w%3D580/sign=f71e8a0653ee3d6d22c687c373176d41/209bb9014a90f603d5ae05e63312b31bb051ed0b.jpg" style="cursor: url(&quot;http://tb2.bdstatic.com/tb/static-pb/img/cur_zin.cur&quot;), pointer;">
 
 <img class="BDE_Image" pic_type="0" width="416" height="738" src="http://imgsrc.baidu.com/forum/w%3D580/sign=944ef96ab8fb43161a1f7a7210a54642/5c1a738da97739121a381cc0f2198618367ae20b.jpg" style="cursor: url(&quot;http://tb2.bdstatic.com/tb/static-pb/img/cur_zin.cur&quot;), pointer;">
