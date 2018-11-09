@@ -1,0 +1,5 @@
+[ 2016-11-04T17:39:53+08:00 ] ::1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+

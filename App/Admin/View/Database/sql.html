@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/bootstrap.min.css">
+<style>
+.execbtn{height:25px;color:#fff;line-height:21px;padding:2px 10px;background:#a5cd52;-webkit-border-radius: 2px;border-radius:2px;border-left:0px;border-top:0px;border-right:0px; border-bottom:1px;margin:0px 10px;cursor:pointer;}
+.execbtn:hover{background:#c1dd88;}	
+</style>	
+</head>
+<body>	
+<div class="sysinfo" style="margin-left:5px;">
+
+
+	<table class="table table-bordered table-condensed table-responsive" >
+		<tr class="info" style="text-align:center;">
+			<td>SQL终端</td>
+		</tr>
+	<form action="__SELF__" method="post">
+		<tr style="text-align:center;">
+			<td>
+				<textarea name="sql" cols="150" rows="8">{$sql}</textarea>
+			</td>
+		</tr>
+		<tr>
+			<td> <input class="execbtn" type="submit" value=" 执 行 " />	</td>		
+		</tr>
+	</form>
+		<tr>
+			<td>
+				
+<pre>查询结果：
+<table class="table">
+	<tr class="warning">
+						<volist name="keys" id="vo">
+							<td>{$vo}</td> 
+						</volist> 
+	</tr>
+<volist name="list" id="vo">
+	<tr>
+		<volist name="keys" id="vv" > 
+			<td>{$vo[$vv]}</td>
+		</volist> 
+	</tr>
+</volist>
+</table>
+</pre>
+			</td>
+		</tr>	
+	</table>	
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,1775 @@
+[ 2016-11-06T15:08:03+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `user` (`username`,`password`,`phone`,`reg_time`,`status`) VALUES ('sloan','cdca073392fab3dcd984554f0a383dbb','12366','1478416083','0') [ RunTime:0.0590s ]
+
+[ 2016-11-06T15:10:11+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:10:35+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:10:39+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:10:42+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:10:44+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:13:43+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0750s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:13:48+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:13:49+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:13:49+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:14:49+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:15:23+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:15:25+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:15:27+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:15:29+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:15:29+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2016-11-06T15:15:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:15:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:15:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-06T15:17:26+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:17:28+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:17:29+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:17:33+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:17:35+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:17:46+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:17:54+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `user` (`username`,`password`,`email`,`phone`,`reg_time`,`status`) VALUES ('role','29a7e96467b69a9f5a93332e29e9b0de','81001985@qq.com','2147483647','1478416673','0') [ RunTime:0.0530s ]
+
+[ 2016-11-06T15:17:56+08:00 ] ::1 /house/index.php/Login/login
+ERR: 非法操作:login
+
+[ 2016-11-06T15:29:50+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:29:51+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:52+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:52+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:29:53+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:53+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:53+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:54+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:55+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:55+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:55+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:56+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:56+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-06T15:29:56+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:56+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-06T15:29:57+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T15:29:57+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T15:29:58+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-06T15:29:58+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:00:29+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:00:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:00:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0220s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:00:30+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:31:44+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+
+[ 2016-11-06T16:31:46+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0160s ]
+
+[ 2016-11-06T16:31:47+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+
+[ 2016-11-06T16:31:48+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+
+[ 2016-11-06T16:31:48+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:31:49+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+
+[ 2016-11-06T16:31:50+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+
+[ 2016-11-06T16:32:26+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:32:27+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+
+[ 2016-11-06T16:32:28+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+
+[ 2016-11-06T16:32:40+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:32:41+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:32:42+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:32:42+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+
+[ 2016-11-06T16:32:42+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0240s ]
+
+[ 2016-11-06T16:32:43+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+
+[ 2016-11-06T16:32:44+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+
+[ 2016-11-06T16:33:13+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:33:49+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:33:53+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:34:08+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:01+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:10+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-06T16:35:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:12+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:12+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-06T16:35:12+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:55+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-06T16:35:56+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:56+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-06T16:35:56+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:56+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:57+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:57+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:57+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:57+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:57+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:58+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:35:58+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:59+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:35:59+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:01+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:31+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:32+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-06T16:36:33+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:34+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:35+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:36+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:36+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:37+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:37+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:38+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:39+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:36:40+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:41+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:42+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:43+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:36:45+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:37:25+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:37:50+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-06T16:38:35+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:40:01+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:40:02+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:40:02+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:40:02+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:40:03+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:40:03+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-06T16:40:38+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:41:01+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:41:03+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:41:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:41:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:41:15+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:42:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-11-06T16:42:07+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:42:08+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:42:08+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-06T16:42:10+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:42:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-11-06T16:42:24+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:42:25+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:42:38+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:43:00+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:43:01+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:10+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:10+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:11+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:44:15+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:45:23+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:45:25+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:45:33+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:45:48+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:46:21+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:46:22+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:46:22+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:46:23+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-06T16:46:38+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:46:39+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:46:40+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:46:40+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:46:40+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:47:27+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:47:28+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:47:28+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:47:28+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:47:39+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:48:05+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:48:05+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-06T16:49:18+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-06T16:49:26+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:49:27+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:54:41+08:00 ] ::1 /house/index.php/Login/login
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:54:58+08:00 ] ::1 /house/index.php/Login/login
+ERR: Think\Model:login方法不存在！
+
+[ 2016-11-06T16:56:02+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:56:03+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:56:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:56:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:56:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:56:04+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:56:43+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:56:44+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:56:45+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:57:26+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:57:27+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T16:58:09+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:58:31+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2016-11-06T16:58:54+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T16:59:18+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T17:11:55+08:00 ] ::1 /house/index.php/css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-06T17:11:55+08:00 ] ::1 /house/index.php/css/mui.poppicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-06T17:11:55+08:00 ] ::1 /house/index.php/css/mui.picker.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-06T17:11:55+08:00 ] ::1 /house/index.php/css/app.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-06T19:32:13+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: email D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1303 行.
+
+[ 2016-11-06T19:32:40+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:32:45+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\house\App\Admin\Model\UserModel.class.php 第 32 行.
+ERR: 1146:La table 'house.useringo' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `useringo`
+ERR: 1146:La table 'house.useringo' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `useringo`
+
+[ 2016-11-06T19:34:34+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\house\App\Admin\Model\UserModel.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2147483647','30024167@qq.com')
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2147483647','30024167@qq.com')
+
+[ 2016-11-06T19:34:46+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\house\App\Admin\Model\UserModel.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0040s ]
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2222','30024167@qq.com')
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2222','30024167@qq.com')
+
+[ 2016-11-06T19:35:48+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test1' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\house\App\Admin\Model\UserModel.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'22','11@qq.com')
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'22','11@qq.com')
+
+[ 2016-11-06T19:37:09+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:10+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:12+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:12+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:15+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:16+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:16+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T19:37:16+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T19:37:18+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-06T19:37:21+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T19:37:25+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:27+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:38+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T19:37:46+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\house\App\Admin\Model\UserModel.class.php 第 32 行.
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2147483647','1111111111111111111111@qq.com')
+ERR: 1048:Le champ 'uid' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES (NULL,'2147483647','1111111111111111111111@qq.com')
+
+[ 2016-11-06T19:39:16+08:00 ] ::1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `user` (`username`,`password`,`reg_time`,`status`) VALUES ('test','098f6bcd4621d373cade4e832627b4f6','1478432356','0') [ RunTime:0.0460s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0160s ]
+SQL: INSERT INTO `userinfo` (`uid`,`phone`,`email`) VALUES ('4','2147483647','1111111111111111111111@qq.com') [ RunTime:0.0260s ]
+
+[ 2016-11-06T19:39:21+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T20:20:36+08:00 ] ::1 /house/index.php/User/userinfo.html
+ERR: 非法操作:userinfo
+
+[ 2016-11-06T20:20:47+08:00 ] ::1 /house/index.php/User/userinfo.html
+ERR: 非法操作:userinfo
+
+[ 2016-11-06T20:21:12+08:00 ] ::1 /house/index.php/User/userinfo.html
+ERR: 非法操作:userinfo
+
+[ 2016-11-06T20:30:39+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+
+[ 2016-11-06T20:32:11+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0320s ]
+
+[ 2016-11-06T20:32:55+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0210s ]
+
+[ 2016-11-06T20:33:57+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0420s ]
+
+[ 2016-11-06T20:35:13+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0350s ]
+
+[ 2016-11-06T20:49:25+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0360s ]
+
+[ 2016-11-06T21:00:42+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0230s ]
+
+[ 2016-11-06T21:02:11+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0460s ]
+
+[ 2016-11-06T21:02:18+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0330s ]
+
+[ 2016-11-06T21:02:37+08:00 ] ::1 /house/index.php/User/info.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0320s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0380s ]
+
+[ 2016-11-06T21:03:00+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0320s ]
+
+[ 2016-11-06T21:03:08+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0220s ]
+
+[ 2016-11-06T21:03:34+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='0',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0710s ]
+
+[ 2016-11-06T21:04:42+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0160s ]
+
+[ 2016-11-06T21:05:00+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0350s ]
+
+[ 2016-11-06T21:05:56+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0220s ]
+
+[ 2016-11-06T21:06:26+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='1',`age`='20',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0380s ]
+
+[ 2016-11-06T21:07:06+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='111111',`nickname`='Admin',`sex`='1',`age`='22',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0230s ]
+
+[ 2016-11-06T21:51:35+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T21:53:20+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0110s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2016-11-06T21:54:34+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0210s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T21:56:53+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0070s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T21:57:10+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-06T21:57:35+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T21:58:33+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2016-11-06T22:00:32+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 4 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-06T22:06:30+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='北京市-北京市-东城区',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0390s ]
+
+[ 2016-11-06T22:12:05+08:00 ] ::1 /house/index.php/User/userinfo.html
+ERR: 非法操作:userinfo
+
+[ 2016-11-06T22:12:49+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='0',`age`='18',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0350s ]
+
+[ 2016-11-06T22:14:04+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='18',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0350s ]
+
+[ 2016-11-06T22:14:11+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='26',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0280s ]
+
+[ 2016-11-06T22:14:28+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='21474836',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0340s ]
+
+[ 2016-11-06T22:17:33+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='2147483647',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0190s ]
+
+[ 2016-11-06T22:17:48+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='155566',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0600s ]
+
+[ 2016-11-06T22:18:00+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='2147483647',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0210s ]
+
+[ 2016-11-06T22:18:40+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='2147483647',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0290s ]
+
+[ 2016-11-06T22:18:52+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='内蒙古-鄂尔多斯市-达拉特旗',`phone`='170528',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0300s ]
+
+[ 2016-11-06T22:20:35+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `head`='Uploads/20161106/581f377f975d7.jpg',`nickname`='布尔',`sex`='1',`age`='22',`area`='山东省-青岛市-城阳区',`phone`='17052850083',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0250s ]
+

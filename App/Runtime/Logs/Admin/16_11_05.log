@@ -1,0 +1,122 @@
+[ 2016-11-05T07:10:53+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0050s ]
+
+[ 2016-11-05T17:47:09+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0930s ]
+
+[ 2016-11-05T17:47:16+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0040s ]
+
+[ 2016-11-05T17:47:30+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0040s ]
+
+[ 2016-11-05T17:52:34+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0000s ]
+
+[ 2016-11-05T17:53:04+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0040s ]
+
+[ 2016-11-05T17:54:05+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0040s ]
+
+[ 2016-11-05T17:55:27+08:00 ] ::1 /house/admin.php/Login/check_verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Model\AdminModel::_after_delete() should be compatible with Think\Model::_after_delete($data, $options) D:\wamp\www\house\App\Admin\Model\AdminModel.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0050s ]
+
+[ 2016-11-05T18:32:09+08:00 ] ::1 /house/admin.php/Email/index
+ERR: 无法加载控制器:Email
+
+[ 2016-11-05T18:32:11+08:00 ] ::1 /house/admin.php/Email/index
+ERR: 无法加载控制器:Email
+
+[ 2016-11-05T19:03:36+08:00 ] ::1 /house/admin.php/Config/index
+ERR: 1054:Champ 'name' inconnu dans field list
+ [ SQL语句 ] : SELECT `name` FROM `config` WHERE `id` = 1 LIMIT 1  
+
+[ 2016-11-05T19:03:48+08:00 ] ::1 /house/admin.php/Config/index
+ERR: 1054:Champ 'name' inconnu dans field list
+ [ SQL语句 ] : SELECT `name` FROM `config` WHERE `id` = 1 LIMIT 1  
+
+[ 2016-11-05T19:13:24+08:00 ] ::1 /house/admin.php/Database/
+ERR: 无法加载控制器:Database
+
+[ 2016-11-05T19:23:47+08:00 ] ::1 /house/admin.php/Database/?btn1=%E7%A1%AE%E5%AE%9A
+ERR: 1146:La table 'house.tables' n'existe pas
+ [ SQL语句 ] : select table_name,engine,table_rows,data_length,index_length,create_time,table_collation,table_comment,data_free from tables where table_schema='house' order by table_rows desc
+
+[ 2016-11-05T19:25:10+08:00 ] ::1 /house/admin.php/Database/?btn1=%E7%A1%AE%E5%AE%9A
+ERR: :
+ [ SQL语句 ] : 
+use information_schema;
+        select table_name,engine,table_rows,data_length,index_length,create_time,table_collation,table_comment,data_free from tables where table_schema='house' order by table_rows desc
+
+[ 2016-11-05T19:52:13+08:00 ] ::1 /house/admin.php/Database/backup
+ERR: 1064:Erreur de syntaxe près de '' à la ligne 1
+ [ SQL语句 ] : show create table 
+
+[ 2016-11-05T19:56:16+08:00 ] ::1 /house/admin.php/Database/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-11-05T19:56:16+08:00 ] ::1 /house/admin.php/Database/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2016-11-05T20:02:32+08:00 ] ::1 /house/admin.php/Database/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2016-11-05T20:02:32+08:00 ] ::1 /house/admin.php/Database/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-11-05T20:17:20+08:00 ] ::1 /house/admin.php/Back/recovery.html
+ERR: 无法加载控制器:Back
+
+[ 2016-11-05T20:17:44+08:00 ] ::1 /house/admin.php/Back/recovery.html
+ERR: 无法加载控制器:Back
+
+[ 2016-11-05T20:20:18+08:00 ] ::1 /house/admin.php/Database/database.html
+ERR: 非法操作:database
+
+[ 2016-11-05T20:26:52+08:00 ] ::1 /house/admin.php/Database/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2016-11-05T20:55:47+08:00 ] ::1 /house/admin.php/Database/sql
+ERR: 1064:Erreur de syntaxe près de '111111111111' à la ligne 1
+ [ SQL语句 ] : 111111111111
+
+[ 2016-11-05T21:01:17+08:00 ] ::1 /house/admin.php/Database/sql
+ERR: 1064:Erreur de syntaxe près de '' à la ligne 1
+ [ SQL语句 ] : select * from slider where
+
+[ 2016-11-05T21:06:02+08:00 ] ::1 /house/admin.php/Database/sql
+ERR: 1065:Query est vide
+

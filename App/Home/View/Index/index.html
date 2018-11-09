@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link href="__PUBLIC__/Home/css/mui.min.css" rel="stylesheet" />
+		<link href="__PUBLIC__/Home/css/app.css"  rel="stylesheet"/>
+		<style>
+			ul {
+				font-size: 14px;
+				color: #8f8f94;
+			}
+			.mui-row li{
+				list-style:none;
+			}
+			.bool_list .mui-media-body p{
+				font-size:8px;
+				margin-top:2%;
+			}
+			.bool_list .mui-media-body strong{
+				color:black;
+			}
+			.bool_list .mui-media-body .price{
+				float:right;
+				font-size:1em;
+				margin-top:6%;
+				color:#FF6600;
+				font-weight:bold;
+			}
+			.bool_list img{
+				margin-right:0.5em;
+				width:40%;
+			}
+			.bool_list .mui-badge{
+				margin-top:4%;
+			} 
+		</style>
+	</head>
+
+	<body>
+
+		<header class="mui-bar mui-bar-nav" style="padding-right: 15px;">
+			<a href="__CONTROLLER__/location" id='setting' class=" mui-pull-left mui-btn-link">{:session('location') ?session('location'):'北京' }</a>
+			<span class="mui-icon mui-icon-arrowdown" onclick="javascript:;window.location='__CONTROLLER__/location' "></span>
+
+			<h1 class="mui-title">布尔租房</h1>
+			<span class="mui-pull-right mui-icon mui-icon-search"></span>
+		</header>
+
+		<div class="mui-content">
+			<div class="mui-content-padded">
+
+		<div id="slider" class="mui-slider" >
+			<div class="mui-slider-group mui-slider-loop">
+				<!-- 额外增加的一个节点(循环轮播：第一个节点是最后一张轮播) -->
+				<div class="mui-slider-item mui-slider-item-duplicate">
+					<a href="{$slider.0.link}">
+						<img src="__PUBLIC__/{$slider.0.img}">
+						<p class="mui-slider-title">{$slider.0.title}</p>
+					</a>
+				</div>
+
+
+			<!-- slider -->
+			<volist name="slider" id="vo">					
+				
+				<div class="mui-slider-item">
+					<a href="{$vo.link}">
+						<img src="__PUBLIC__/{$vo.img}">
+						<p class="mui-slider-title">{$vo.title}</p>
+					</a>
+				</div>
+
+			</volist>
+			<!-- end -->
+
+
+				<!-- 额外增加的一个节点(循环轮播：最后一个节点是第一张轮播) -->
+				<div class="mui-slider-item mui-slider-item-duplicate">
+					<a href="{$slider.0.link}">
+						<img src="__PUBLIC__/{$slider.0.img}">
+						<p class="mui-slider-title">{$slider.0.title}</p>
+					</a>
+				</div>
+			</div>
+
+			<div class="mui-slider-indicator">
+
+<!-- slider  -->
+<volist name="slider" id="vo">	
+				<div class="mui-indicator {$i==1?'mui-active':null}	"></div>
+</volist>
+<!-- end -->
+
+			</div>
+		</div>
+
+<!-- 内容 -->
+<div class="mui-content">
+
+    <div class="mui-row" style="background-color:white;margin-bottom:0.2%;">
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/House/lists">
+                    整租
+                </a>
+            </li>
+        </div>
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/House/lists">
+                    合租
+                </a>
+            </li>
+        </div> 
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/House/lists">
+                    日租
+                </a>
+            </li>
+        </div> 
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/House/lists">
+                    找房
+                </a>
+            </li>
+        </div> 
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/Message">
+                    消息
+                </a>
+            </li>
+        </div> 
+        <div class="mui-col-sm-4 mui-col-xs-4">
+            <li class="mui-table-view-cell">
+                <a class="mui-navigate-right" href="__MODULE__/User">
+                    我的
+                </a>
+            </li>
+        </div> 
+    </div>
+	<!-- end -->
+
+
+	<!-- row 筛选 -->
+	<div class="mui-row" style="background-color:white;">      	
+		<li class="mui-table-view-cell">
+		    	<span style="border-left:3px solid rgba(0,122,255,0.5);padding-left:1%;"> 最新房源</span>
+		</li>
+	</div>
+	<!-- end -->
+
+
+	<!-- row 列表 -->
+	<div class="mui-row">
+
+			<ul class="mui-table-view">
+
+			<volist name="list" id="vo">
+							
+				<li class="mui-table-view-cell mui-media">
+					<a href="__MODULE__/House/info/id/{$vo.id}" class="bool_list">
+						<img class=" mui-pull-left" src="__PUBLIC__/{:explode(',',$vo['img'])[0]}">
+						<div class="mui-media-body">
+							<strong> {$vo.name} </strong> 
+							<span class="price"> {$vo.money}/月 </span> 
+							<p> {$vo.room_type} {$vo.area}m² {$vo.direction}</p>
+							<p class='mui-ellipsis mui-icon mui-icon-location'>{$vo.location}</p>
+							<br>
+							<span class="mui-badge mui-badge-success">{$vo.pay_ren}</span>
+							<span class="mui-badge mui-badge-success">{$vo.type}</span>
+							<span class="mui-badge mui-badge-success">{$vo.decoration}</span>
+						</div>
+					</a>
+					<div style="margin-top:0.2em;">
+					发布时间 {:date('Y-m-d H:i:s',$vo['add_time'])}
+					</div>
+				</li>
+
+			</volist>
+
+
+			</ul>		
+
+	</div>
+	<!-- end -->
+
+
+<br><br>
+
+{:W('Menu/footer')} 
+
+</div>
+
+
+
+
+</body>
+</html>
+
+
+<script type="text/javascript" charset="utf-8">
+	mui.init({
+		swipeBack:true //启用右滑关闭功能
+	});
+	var slider = mui("#slider");
+	slider.slider({
+		interval: 2000
+	});
+
+</script>

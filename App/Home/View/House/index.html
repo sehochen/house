@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link href="__PUBLIC__/Home/css/mui.min.css" rel="stylesheet" />
+		<link href="__PUBLIC__/Home/css/app.css"  rel="stylesheet"/>
+		<style>
+			ul {
+				font-size: 14px;
+				color: #8f8f94;
+			}
+			.mui-row li{
+				list-style:none;
+			}
+			.bool_list .mui-media-body p{
+				font-size:8px;
+				margin-top:2%;
+			}
+			.bool_list .mui-media-body strong{
+				color:black;
+			}
+			.bool_list .mui-media-body .price{
+				float:right;
+				font-size:1em;
+				margin-top:6%;
+				color:#FF6600;
+				font-weight:bold;
+			}
+			.bool_list img{
+				margin-right:0.5em;
+				width:40%;
+			}
+			.bool_list .mui-badge{
+				margin-top:4%;
+			} 
+		</style>
+	</head>
+
+	<body>
+
+<header id="header" class="mui-bar mui-bar-nav">
+			<a class="mui-icon mui-icon-left-nav mui-pull-left" href="__MODULE__/User"></a>
+			<h1 class="mui-title"> 
+				我发布的房源 
+			</h1>
+		<a class="mui-icon mui-icon-plusempty mui-pull-right" href="__CONTROLLER__/add"></a>
+</header>
+
+<!-- 内容 -->
+<div class="mui-content">
+
+
+
+	<!-- row 列表 -->
+	<div class="mui-row">
+
+			<ul class="mui-table-view">
+
+			<volist name="list" id="vo">
+							
+				<li class="mui-table-view-cell mui-media">
+					<a href="__CONTROLLER__/info/id/{$vo.id}" class="bool_list">
+						<img class=" mui-pull-left" src="__PUBLIC__/{:explode(',',$vo['img'])[0]}">
+						<div class="mui-media-body">
+							<strong> {$vo.name} </strong> 
+							<span class="price"> {$vo.money}/月 </span> 
+							<p> {$vo.room_type} {$vo.area}m² {$vo.direction}</p>
+							<p class='mui-ellipsis mui-icon mui-icon-location'>{$vo.location}</p>
+							<br>
+							<span class="mui-badge mui-badge-success">{$vo.pay_ren}</span>
+							<span class="mui-badge mui-badge-success">{$vo.type}</span>
+							<span class="mui-badge mui-badge-success">{$vo.decoration}</span>
+						</div>
+					</a>
+					<div style="margin-top:0.2em;">
+					发布时间 {:date('Y-m-d H:i:s',$vo['add_time'])}
+					</div>
+				</li>
+
+			</volist>
+
+
+			</ul>		
+
+	</div>
+	<!-- end -->
+
+
+
+<br><br>
+
+{:W('Menu/footer')} 
+
+
+
+</div>
+
+
+	</body>
+
+</html>
+
+<script src="__PUBLIC__/Home/js/mui.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+	mui.init({
+		swipeBack:true //启用右滑关闭功能
+	});
+
+</script>
+<script>
+    $(function () {
+    	$('.mui-tab-item').removeClass('mui-active');
+    	$('.person').addClass('mui-active');
+
+    });
+</script>

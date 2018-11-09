@@ -1,0 +1,17 @@
+[ 2016-11-15T13:04:53+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-15T13:05:35+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1510s ]
+
+[ 2016-11-15T13:05:37+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+

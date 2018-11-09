@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>节点</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/system.css"> 
+	<style>
+		.page{
+			text-align:right;
+		}
+		.page a{
+			margin:0 10px;
+		}
+		.operation a{
+			text-decoration:none;
+			margin:0 5px;
+		}
+	</style>	
+</head>
+<body>	
+<div class="sysinfo" style="margin-left:5px;">
+
+	<table class="table table-hover table-bordered table-condensed table-responsive" >
+		<tr class="info" style="text-align:center;">
+			<td colspan="7">
+			权限管理
+			<span style="float:right;"> [ <a href="__CONTROLLER__/add">添加节点</a> ] </span>
+			</td>
+		</tr>
+		<tr class="warning">
+			<td>编号</td> 
+			<td>节点名</td>
+			<td>控制器</td>
+			<td>方法</td>
+			<td>添加时间</td>
+			<td width="80px">操作</td>
+		</tr>	
+
+	<volist name="list" id="vo">				
+		<tr>
+			<td>{$vo.id}</td> 
+			<td>{:str_repeat("——",$vo['level'])} {$vo.name}</td>
+			<td>{$vo.controller}</td>
+			<td>{$vo.action}</td>
+			<td>{:date('Y-m-d H:i',$vo['add_time'])}</td>
+			<td class="operation">
+				<a href="__CONTROLLER__/edit/id/{$vo.id}">
+					<img src="__PUBLIC__/Admin/images/icon_edit.gif" alt="编辑">
+				</a>
+				<a href="__CONTROLLER__/del/id/{$vo.id}" onclick="javascript:return confirm('你真的要删除吗？') ">
+					<img src="__PUBLIC__/Admin/images/icon_drop.gif" alt="删除">
+				</a>
+			</td>
+		</tr>
+	</volist>
+
+
+	</table>	
+
+</div>
+
+
+</body>
+</html>

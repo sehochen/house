@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>添加</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Admin/css/system.css" />
+	<script src="__PUBLIC__/Admin/js/jquery.min.js" type="text/javascript"></script>
+	<script src="__PUBLIC__/Admin/js/checkbox.js" type="text/javascript"></script>
+</head>
+<body>	
+<div class="sysinfo" style="margin-left:5px;">
+
+<form action="__SELF__" method="post">
+	<table class="table table-hover table-bordered table-condensed table-responsive" >
+		<tr class="info" style="text-align:center;">
+			<td colspan="2">
+			分配权限 —— {$info.name}
+			<span style="float:right;"> [ <a href="__CONTROLLER__/index">列表</a> ] </span>
+			</td>
+		</tr>
+		<input type="hidden" name="id" value="{$info.id}">
+		<tr style="text-align:center;">
+				<td colspan="2">角色名：<input type="text" name="name" value="{$info.name}"> </td>
+		</tr>
+		<tr style="text-align:center;">
+				<td colspan="2">角色描述：<textarea name="remark">{$info.remark}</textarea></td>
+		</tr>	
+
+		<php>$node_ids=explode(",",$info['node_ids']);</php>
+
+	<!-- 遍历 -->
+	<volist name="menuA" id="vo">			
+		<tr>
+			<td>
+				{$vo.name}		
+				<input type="checkbox" name="node_ids[]" value="{$vo.id}"
+<php>if( in_array($vo['id'],$node_ids) ){ echo 'checked="checked"';};</php>
+				>
+
+				<img alt="" class="selectall chk" id="chk_{$vo.id}"  
+<php>
+if( in_array($vo['id'],$node_ids) ){
+	echo ' src="__PUBLIC__/Admin/images/index/ck_down.gif" ';
+}else{
+	echo ' src="__PUBLIC__/Admin/images/index/ck_up.gif" ';
+};
+</php>
+				/>
+			</td> 
+			<td>
+				<div class="chk_{$vo.id}" id="list">
+					
+					<!-- 遍历 -->
+					<volist name="menuB" id="val">
+						<if condition="$val['pid'] == $vo['id'] ">			
+							
+								{$val.name}<input type="checkbox" name="node_ids[]" value="{$val.id}"
+<php>if( in_array($val['id'],$node_ids) ){ echo 'checked="checked"';};</php>
+								>
+								<img alt="" class="chk" 
+<php>
+if( in_array($val['id'],$node_ids) ){
+	echo ' src="__PUBLIC__/Admin/images/index/ck_down.gif" ';
+}else{
+	echo ' src="__PUBLIC__/Admin/images/index/ck_up.gif" ';
+};
+</php>
+								/>
+								 &nbsp; &nbsp;					
+
+						<else /> </if>
+					</volist>	
+					<!-- end -->
+
+				</div>
+			</td>
+		</tr>
+	</volist>
+
+		<tr style="text-align:center;">
+			<td colspan="2">
+				<input class="execbtn" type="submit" value="确定" />
+				<input class="execbtn" type="reset" value="重置" />
+			</td>
+		</tr>		
+	</table>
+
+</form>
+</div>
+
+
+</body>
+</html>
+<script>
+	var path="__PUBLIC__/Admin/";
+</script>

@@ -1,0 +1,346 @@
+[ 2016-11-07T08:03:39+08:00 ] ::1 /house/index.php/__MOGULE__/User/index
+ERR: 无法加载控制器:__MOGULE__
+
+[ 2016-11-07T08:19:45+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `nickname`='布尔',`sex`='1',`age`='22',`area`='山东省-青岛市-城阳区',`phone`='17052850083',`email`='1111111@qq.com',`desc`='hi,大家好，我是布尔' WHERE `uid` = 4 [ RunTime:0.0520s ]
+
+[ 2016-11-07T09:22:24+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-07T09:53:00+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='hi,大家好，我是布尔。。。',`nickname`='布尔',`sex`='1',`age`='22',`area`='山东省-青岛市-城阳区',`phone`='17052850083',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.0590s ]
+
+[ 2016-11-07T09:58:08+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0312s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0468s ]
+
+[ 2016-11-07T09:58:32+08:00 ] 127.0.0.1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0200s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-07T09:58:52+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='10',`area`='山东-临沂',`phone`='4294967295',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0530s ]
+
+[ 2016-11-07T09:59:04+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='10',`area`='山东-临沂',`phone`='17052850083',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0540s ]
+
+[ 2016-11-07T09:59:32+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='10',`area`='山东省-青岛市-市南区',`phone`='17052850083',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0430s ]
+
+[ 2016-11-07T10:00:28+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-11-07T10:06:17+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='22',`area`='山东省-青岛市-市南区',`phone`='17052850083',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0410s ]
+
+[ 2016-11-07T10:09:51+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0140s ]
+
+[ 2016-11-07T10:20:54+08:00 ] ::1 /house/index.php/Release
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T10:22:01+08:00 ] ::1 /house/index.php/css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:22:01+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:22:01+08:00 ] ::1 /house/index.php/css/app.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:22:01+08:00 ] ::1 /house/index.php/css/mui.picker.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:22:01+08:00 ] ::1 /house/index.php/css/mui.poppicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:22:37+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:22:51+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:23:15+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:23:18+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:26:27+08:00 ] ::1 /house/index.php/User/Release
+ERR: 非法操作:Release
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/css/mui.poppicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/css/mui.picker.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/css/app.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/js/mui.poppicker.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:36:47+08:00 ] ::1 /house/index.php/js/mui.picker.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:37:45+08:00 ] ::1 /house/index.php/css/app.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:37:45+08:00 ] ::1 /house/index.php/css/mui.picker.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:37:45+08:00 ] ::1 /house/index.php/css/mui.poppicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:37:45+08:00 ] ::1 /house/index.php/js/mui.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-11-07T10:37:45+08:00 ] ::1 /house/index.php/css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-07T10:47:57+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T10:50:47+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='22',`area`='山东省-临沂市-费县',`phone`='17052850083',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0550s ]
+
+[ 2016-11-07T10:50:51+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='我的个人信息说明',`nickname`='bool',`sex`='1',`age`='22',`area`='山东省-临沂市-费县',`phone`='17052850083',`email`='8101985@qq.com' WHERE `uid` = 1 [ RunTime:0.0270s ]
+
+[ 2016-11-07T10:51:47+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-07T11:26:37+08:00 ] ::1 /house/index.php/Release/css/mui.min.css
+ERR: 非法操作:css
+
+[ 2016-11-07T11:26:37+08:00 ] ::1 /house/index.php/Release/css/mui.poppicker.css
+ERR: 非法操作:css
+
+[ 2016-11-07T11:26:37+08:00 ] ::1 /house/index.php/Release/css/app.css
+ERR: 非法操作:css
+
+[ 2016-11-07T11:26:37+08:00 ] ::1 /house/index.php/Release/css/mui.picker.min.css
+ERR: 非法操作:css
+
+[ 2016-11-07T11:32:33+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0110s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T12:03:57+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-07T12:06:20+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-07T12:12:56+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T13:35:29+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0200s ]
+
+[ 2016-11-07T13:35:31+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T13:38:21+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T13:39:27+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-07T15:53:23+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0432s ]
+
+[ 2016-11-07T17:55:51+08:00 ] ::1 /house/index.php/Release/add
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T18:35:09+08:00 ] ::1 /house/index.php/Release/index.html
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T18:36:54+08:00 ] ::1 /house/index.php/Release/index.html
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T18:37:01+08:00 ] ::1 /house/index.php/Release/add
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T18:37:41+08:00 ] ::1 /house/index.php/Release/index.html
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T19:31:25+08:00 ] ::1 /house/index.php/Release
+ERR: 无法加载控制器:Release
+
+[ 2016-11-07T20:10:02+08:00 ] ::1 /house/index.php
+ERR: 1054:Champ 'b.uid' inconnu dans group statement
+ [ SQL语句 ] : SELECT a.*,GROUP_CONCAT(b.path) as img FROM house a left join house_img as b on a.id=b.hid  GROUP BY b.uid 
+
+[ 2016-11-07T20:10:26+08:00 ] ::1 /house/index.php
+ERR: 1054:Champ 'b.uid' inconnu dans field list
+ [ SQL语句 ] : SELECT a.*,GROUP_CONCAT(b.path) as img,b.uid FROM house a left join house_img as b on a.id=b.hid  GROUP BY b.uid 
+
+[ 2016-11-07T20:14:33+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0970s ]
+
+[ 2016-11-07T20:14:33+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-07T20:20:55+08:00 ] ::1 /house/index.php/House/css/mui.poppicker.css
+ERR: 非法操作:css
+
+[ 2016-11-07T20:20:55+08:00 ] ::1 /house/index.php/House/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-07T20:20:55+08:00 ] ::1 /house/index.php/House/css/mui.picker.min.css
+ERR: 非法操作:css
+
+[ 2016-11-07T20:20:55+08:00 ] ::1 /house/index.php/House/css/mui.min.css
+ERR: 非法操作:css
+
+[ 2016-11-07T20:20:55+08:00 ] ::1 /house/index.php/House/css/app.css
+ERR: 非法操作:css
+
+[ 2016-11-07T20:21:34+08:00 ] ::1 /house/index.php/House/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-07T20:22:08+08:00 ] ::1 /house/index.php/House/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-07T20:22:30+08:00 ] ::1 /house/index.php/House/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-07T20:26:44+08:00 ] ::1 /house/index.php/House/info
+ERR: 参数错误或者未定义:id
+
+[ 2016-11-07T20:55:16+08:00 ] ::1 /house/index.php/House/info/id/8
+ERR: 1064:Erreur de syntaxe près de 'WHERE a.id = '8' GROUP BY a.id LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,GROUP_CONCAT(b.path) as img FROM house a left join house_img as b on a.id=b.hid left join   WHERE a.id = '8' GROUP BY a.id LIMIT 1  
+
+[ 2016-11-07T20:58:36+08:00 ] ::1 /house/index.php/House/info/id/8
+ERR: 1054:Champ 'c.name' inconnu dans field list
+ [ SQL语句 ] : SELECT a.*,GROUP_CONCAT(b.path) as img,c.name as username FROM house a left join house_img as b on a.id=b.hid left join user as c on a.uid=c.id  WHERE a.id = '8' GROUP BY a.id LIMIT 1  
+

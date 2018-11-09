@@ -1,0 +1,28 @@
+[ 2016-11-10T18:05:59+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1182s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-10T18:20:42+08:00 ] 127.0.0.1 /house/index.php/Login/register
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'maozhongyu' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `user` (`username`,`password`,`reg_time`,`status`) VALUES ('maozhongyu','d155f11ab17903fedda7418c05a9a9ee','1478773241','0') [ RunTime:0.2510s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0510s ]
+SQL: INSERT INTO `userinfo` (`uid`,`phone`,`email`,`area`,`nickname`) VALUES ('6','18758327958','595106153@qq.com','暂未填写','暂未填写') [ RunTime:0.1490s ]
+
+[ 2016-11-10T18:21:02+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'maozhongyu' LIMIT 1   [ RunTime:0.0000s ]
+

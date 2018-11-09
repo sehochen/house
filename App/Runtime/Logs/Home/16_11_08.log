@@ -1,0 +1,998 @@
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/css/mui.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/css/mui.poppicker.css
+ERR: 非法操作:css
+
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/css/mui.picker.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/js/city.data-3.js
+ERR: 非法操作:js
+
+[ 2016-11-08T08:43:58+08:00 ] ::1 /house/index.php/House/js/mui.poppicker.js
+ERR: 非法操作:js
+
+[ 2016-11-08T08:43:59+08:00 ] ::1 /house/index.php/House/css/app.css
+ERR: 非法操作:css
+
+[ 2016-11-08T08:43:59+08:00 ] ::1 /house/index.php/House/js/mui.picker.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T08:48:07+08:00 ] ::1 /house/index.php/House/href=
+ERR: 非法操作:href=
+
+[ 2016-11-08T08:48:12+08:00 ] ::1 /house/index.php/House/href=
+ERR: 非法操作:href=
+
+[ 2016-11-08T08:50:29+08:00 ] ::1 /house/index.php/House/href=
+ERR: 非法操作:href=
+
+[ 2016-11-08T09:19:10+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0520s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0600s ]
+
+[ 2016-11-08T10:17:21+08:00 ] ::1 /house/index.php/House/lists?name=222222
+ERR: 1054:Champ 'a.name' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `house` WHERE a.name LIKE '%222222%' LIMIT 1  
+
+[ 2016-11-08T10:27:12+08:00 ] ::1 /house/index.php/House/lists?name=111111
+ERR: 1054:Champ 'a.name' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `house` WHERE a.name LIKE '%111111%' LIMIT 1  
+
+[ 2016-11-08T12:51:21+08:00 ] ::1 /house/index.php/css/mui.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-08T12:51:22+08:00 ] ::1 /house/index.php/css/mui.poppicker.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-08T12:51:23+08:00 ] ::1 /house/index.php/css/mui.picker.min.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-08T12:51:23+08:00 ] ::1 /house/index.php/css/app.css
+ERR: 无法加载控制器:Css
+
+[ 2016-11-08T12:57:21+08:00 ] ::1 /house/index.php/Comment/css/app.css
+ERR: 非法操作:css
+
+[ 2016-11-08T12:57:21+08:00 ] ::1 /house/index.php/Comment/css/mui.poppicker.css
+ERR: 非法操作:css
+
+[ 2016-11-08T12:57:22+08:00 ] ::1 /house/index.php/Comment/css/mui.picker.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T12:57:22+08:00 ] ::1 /house/index.php/Comment/css/mui.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T12:57:22+08:00 ] ::1 /house/index.php/Comment/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T14:13:04+08:00 ] ::1 /house/index.php/Comment/index/uid/4
+ERR: Think\Model:getList方法不存在！
+
+[ 2016-11-08T14:16:22+08:00 ] ::1 /house/index.php/Comment/index/uid/4
+ERR: 1054:Champ 'a.uid' inconnu dans on clause
+ [ SQL语句 ] : SELECT * FROM comment a left join userinfo as b on a.uid=b.uid  WHERE `to_id` = '4' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T14:39:41+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0330s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0350s ]
+
+[ 2016-11-08T14:39:48+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T14:47:49+08:00 ] ::1 /house/index.php/Comment/uid/4
+ERR: 非法操作:uid
+
+[ 2016-11-08T14:53:30+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0360s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0090s ]
+
+[ 2016-11-08T14:55:57+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='hi,大家好，我是布尔。。。',`nickname`='bool',`sex`='1',`age`='20',`area`='山东省-临沂市-兰山区',`phone`='17052850083',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.1766s ]
+
+[ 2016-11-08T14:55:59+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='hi,大家好，我是布尔。。。',`nickname`='bool',`sex`='1',`age`='20',`area`='山东省-临沂市-兰山区',`phone`='17052850083',`email`='1111111@qq.com' WHERE `uid` = 4 [ RunTime:0.1020s ]
+
+[ 2016-11-08T15:04:34+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'role' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T15:05:10+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T15:05:22+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T15:05:27+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='111111111',`nickname`='33',`sex`='1',`age`='12',`area`='北京市-北京市-东城区',`phone`='155556',`email`='12363@qq.com' WHERE `uid` = 3 [ RunTime:0.0810s ]
+
+[ 2016-11-08T15:08:01+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0060s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 3 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T15:20:28+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.1404s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0312s ]
+
+[ 2016-11-08T15:29:36+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'bool' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T15:30:04+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0040s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T15:33:15+08:00 ] ::1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.048003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T15:34:08+08:00 ] ::1 /house/index.php/User/headinfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+SQL: SELECT `head` FROM `userinfo` WHERE `uid` = 2 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T15:34:43+08:00 ] ::1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='111111111111111',`nickname`='22',`sex`='0',`age`='24',`area`='河北省-石家庄市-长安区',`phone`='17500002',`email`='admin@qq.com' WHERE `uid` = 2 [ RunTime:0.0150s ]
+
+[ 2016-11-08T15:40:35+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-08T15:45:06+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T15:45:06+08:00 ] 127.0.0.1 /house/index.php/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `user` WHERE `username` = 'sloan' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T15:45:22+08:00 ] 127.0.0.1 /house/index.php/Index/location
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-08T15:46:16+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='111111111111111',`nickname`='22',`sex`='0',`age`='24',`area`='河北省-石家庄市-长安区',`phone`='17500002',`email`='admin@qq.com' WHERE `uid` = 2 [ RunTime:0.0312s ]
+
+[ 2016-11-08T15:47:29+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='111111111111111',`nickname`='22',`sex`='1',`age`='24',`area`='河北省-石家庄市-长安区',`phone`='17500002',`email`='admin@qq.com' WHERE `uid` = 2 [ RunTime:0.0312s ]
+
+[ 2016-11-08T15:47:32+08:00 ] 127.0.0.1 /house/index.php/User/info
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `userinfo` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `userinfo` SET `desc`='111111111111111',`nickname`='22',`sex`='1',`age`='24',`area`='河北省-石家庄市-长安区',`phone`='17500002',`email`='admin@qq.com' WHERE `uid` = 2 [ RunTime:0.0312s ]
+
+[ 2016-11-08T19:39:46+08:00 ] ::1 /house/index.php/Appointment/css/mui.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:39:46+08:00 ] ::1 /house/index.php/Appointment/css/mui.picker.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:39:46+08:00 ] ::1 /house/index.php/Appointment/css/app.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:39:46+08:00 ] ::1 /house/index.php/Appointment/css/mui.poppicker.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:39:47+08:00 ] ::1 /house/index.php/Appointment/js/mui.poppicker.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:39:47+08:00 ] ::1 /house/index.php/Appointment/js/mui.picker.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:39:47+08:00 ] ::1 /house/index.php/Appointment/js/mui.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T20:02:58+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:03:14+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:04+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:06+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:07+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:07+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:07+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:08+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:08+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:08+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:09+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:04:09+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:06:25+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:06:32+08:00 ] ::1 /house/index.php/Comment/add/uid/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `comment` (`option`,`to_id`,`content`,`anonymity`,`add_time`,`from_id`) VALUES ('值得推荐','4','111111111','1','1478606792','2') [ RunTime:0.1540s ]
+
+[ 2016-11-08T20:06:34+08:00 ] ::1 /house/index.php/Common/index/uid/4
+ERR: 无法加载控制器:Common
+
+[ 2016-11-08T20:09:11+08:00 ] ::1 /house/index.php/House/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+
+[ 2016-11-08T20:09:12+08:00 ] ::1 /house/index.php/House/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+
+[ 2016-11-08T20:33:27+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: other D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`remark`,`other`) VALUES ('','7','',NULL) [ RunTime:0.0780s ]
+
+[ 2016-11-08T20:36:26+08:00 ] ::1 /house/index.php/Appointment/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:36:30+08:00 ] ::1 /house/index.php/Appointment/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2016-11-08T20:36:45+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: other D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: model D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 38 行.
+
+[ 2016-11-08T20:37:44+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`) VALUES ('1478607360','8','能住两人,能养宠物,能做饭,有独卫','wwwwwww') [ RunTime:0.0440s ]
+
+[ 2016-11-08T20:45:41+08:00 ] ::1 /house/index.php/Appointment
+ERR: 1052:Champ: 'uid' dans where clause est ambigu
+ [ SQL语句 ] : SELECT a.*,b.* FROM appointment a left join house as b on a.hid=b.id  WHERE `uid` = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T20:46:09+08:00 ] ::1 /house/index.php/Appointment
+ERR: 1054:Champ 'b.uid' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `appointment` WHERE b.uid = '2' LIMIT 1  
+
+[ 2016-11-08T20:46:19+08:00 ] ::1 /house/index.php/Appointment
+ERR: 1054:Champ 'a.uid' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `appointment` WHERE a.uid = '2' LIMIT 1  
+
+[ 2016-11-08T20:47:22+08:00 ] ::1 /house/index.php/Appointment
+ERR: 1054:Champ 'a.hid' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `appointment` WHERE a.hid = '2' LIMIT 1  
+
+[ 2016-11-08T20:47:31+08:00 ] ::1 /house/index.php/Appointment
+ERR: 1054:Champ 'a.uid' inconnu dans where clause
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `appointment` WHERE a.uid = '2' LIMIT 1  
+
+[ 2016-11-08T20:50:29+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: hid D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1303 行.
+
+[ 2016-11-08T20:50:43+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: hid D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1303 行.
+
+[ 2016-11-08T20:51:22+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','8','能住两人,能养宠物,能做饭,有独卫','111111111','2') [ RunTime:0.0360s ]
+
+[ 2016-11-08T21:06:27+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1054:Champ 'c.img' inconnu dans field list
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,c.img FROM appointment a left join house as b on a.hid=b.id left join house_img as c on c.hid=b.id  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:08:16+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1054:Champ 'c.img' inconnu dans field list
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,c.img FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' GROUP BY c.hid ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:12:08+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'distinct c.path FROM appointment a left join house as b on a.hid=b.id left join ' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,distinct c.path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:13:15+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'distinct(c.path) FROM appointment a left join house as b on a.hid=b.id left join' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,distinct(c.path) FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:13:49+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:13:50+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:14:01+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT(path) FROM appointment a left join house as b on a.hid=b.id left join h' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT(path) FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:14:11+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT(c.path) FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:15:47+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT c.path FROM appointment a left join house as b on a.hid=b.id left join ' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT c.path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:15:48+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT c.path FROM appointment a left join house as b on a.hid=b.id left join ' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT c.path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:15:55+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT path FROM appointment a left join house as b on a.hid=b.id left join ho' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:16:11+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT c,`hid`,c.path FROM appointment a left join house as b on a.hid=b.id le' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT c,`hid`,c.path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:16:26+08:00 ] ::1 /house/index.php/Appointment/index
+ERR: 1064:Erreur de syntaxe près de 'DISTINCT c.hid,c.path FROM appointment a left join house as b on a.hid=b.id left' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name,b.money,b.room_type,b.area,b.direction,b.location,b.pay_ren,b.type,b.decoration,DISTINCT c.hid,c.path FROM appointment a left join house as b on a.hid=b.id left join house_img as c on b.id=c.hid  WHERE a.uid = '2' ORDER BY add_time asc LIMIT 0,10  
+
+[ 2016-11-08T21:20:54+08:00 ] ::1 /house/index.php/Appointment/decoration/id/1
+ERR: 非法操作:decoration
+
+[ 2016-11-08T21:20:58+08:00 ] ::1 /house/index.php/Appointment/decoration/id/1
+ERR: 非法操作:decoration
+
+[ 2016-11-08T21:26:06+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','7','能住两人,能养宠物','','2') [ RunTime:0.0670s ]
+
+[ 2016-11-08T21:26:27+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','7','能住两人,能养宠物,有独卫','','2') [ RunTime:0.0250s ]
+
+[ 2016-11-08T21:28:35+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0070s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:29:12+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0220s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: dump D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 42 行.
+
+[ 2016-11-08T21:30:04+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T21:30:35+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0260s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T21:32:47+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `uid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: hid D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 37 行.
+
+[ 2016-11-08T21:33:00+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `uid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: hid D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 37 行.
+
+[ 2016-11-08T21:33:23+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:33:26+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T21:33:37+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: other D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:44:05+08:00 ] ::1 /house/index.php/Appointment/cancel/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0100s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 3 [ RunTime:0.0500s ]
+
+[ 2016-11-08T21:44:05+08:00 ] ::1 /house/index.php/Appointment/cancel/id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 3 [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:45:15+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0040s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','7','能住两人,能养宠物,能做饭,有独卫','1111111111','2') [ RunTime:0.0640s ]
+
+[ 2016-11-08T21:45:22+08:00 ] ::1 /house/index.php/Appointment/cancel/id/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0080s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 7 [ RunTime:0.0360s ]
+
+[ 2016-11-08T21:45:22+08:00 ] ::1 /house/index.php/Appointment/cancel/id/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 7 [ RunTime:0.0020s ]
+
+[ 2016-11-08T21:46:43+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','8','能住两人,能养宠物','23','2') [ RunTime:0.0300s ]
+
+[ 2016-11-08T21:46:57+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','7','能做饭,有独卫','33333333333333','2') [ RunTime:0.0380s ]
+
+[ 2016-11-08T21:47:04+08:00 ] ::1 /house/index.php/Appointment/add/hid/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: other D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:47:52+08:00 ] ::1 /house/index.php/Appointment/cancel/id/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0080s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 9 [ RunTime:0.0220s ]
+
+[ 2016-11-08T21:47:52+08:00 ] ::1 /house/index.php/Appointment/cancel/id/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 9 [ RunTime:0.0000s ]
+
+[ 2016-11-08T21:48:36+08:00 ] ::1 /house/index.php/Appointment/cancel/id/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 8 [ RunTime:0.1140s ]
+
+[ 2016-11-08T21:48:36+08:00 ] ::1 /house/index.php/Appointment/cancel/id/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 8 [ RunTime:0.0070s ]
+
+[ 2016-11-08T21:49:35+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `appointment` (`time`,`hid`,`other`,`remark`,`uid`) VALUES ('1478607360','7','能住两人,能养宠物,能做饭,有独卫','2222222222222','2') [ RunTime:0.0930s ]
+
+[ 2016-11-08T21:49:49+08:00 ] ::1 /house/index.php/Appointment/add/hid/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: other D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\wamp\www\house\App\Admin\Model\AppointmentModel.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `appointment` WHERE `hid` = 7 LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-11-08T21:49:58+08:00 ] ::1 /house/index.php/Appointment/cancel/id/10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0050s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 10 [ RunTime:0.0380s ]
+
+[ 2016-11-08T21:49:58+08:00 ] ::1 /house/index.php/Appointment/cancel/id/10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `appointment` [ RunTime:0.0070s ]
+SQL: DELETE FROM `appointment` WHERE `id` = 10 [ RunTime:0.0000s ]
+
+[ 2016-11-08T22:08:29+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-11-08T22:09:30+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0090s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: time D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1303 行.
+
+[ 2016-11-08T22:09:35+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: time D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1303 行.
+
+[ 2016-11-08T22:10:04+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0120s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0020s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614204','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614204','2')
+
+[ 2016-11-08T22:10:06+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614206','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614206','2')
+
+[ 2016-11-08T22:10:08+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0040s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614208','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614208','2')
+
+[ 2016-11-08T22:10:08+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0120s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0000s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614208','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614208','2')
+
+[ 2016-11-08T22:10:33+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0040s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0010s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614233','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614233','2')
+
+[ 2016-11-08T22:11:25+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0120s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614285','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614285','2')
+
+[ 2016-11-08T22:12:21+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0070s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0040s ]
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614341','2')
+ERR: 1054:Champ 'time' inconnu dans field list
+ [ SQL语句 ] : INSERT INTO `collect` (`hid`,`time`,`uid`) VALUES ('8','1478614341','2')
+
+[ 2016-11-08T22:13:09+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030001s ]
+
+[ 2016-11-08T22:14:12+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0050s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-11-08T22:15:24+08:00 ] ::1 /house/index.php/Collect/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\house\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SHOW COLUMNS FROM `house` [ RunTime:0.0060s ]
+SQL: SELECT `uid` FROM `house` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `hid` FROM `collect` WHERE `hid` = 8 LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `collect` (`hid`,`add_time`,`uid`) VALUES ('8','1478614524','2') [ RunTime:0.0270s ]
+
+[ 2016-11-08T22:17:22+08:00 ] ::1 /house/index.php/Collect/cancel/id/11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0060s ]
+SQL: DELETE FROM `collect` WHERE `id` = 11 [ RunTime:0.0420s ]
+
+[ 2016-11-08T22:17:22+08:00 ] ::1 /house/index.php/Collect/cancel/id/11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `collect` [ RunTime:0.0050s ]
+SQL: DELETE FROM `collect` WHERE `id` = 11 [ RunTime:0.0010s ]
+
